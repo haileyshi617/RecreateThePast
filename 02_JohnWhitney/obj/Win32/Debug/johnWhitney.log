@@ -1,0 +1,11 @@
+﻿  ofApp.cpp
+d:\software\front-end\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\software\front-end\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  johnWhitney.vcxproj -> D:\SOFTWARE\front-end\of_v0.11.0_vs2017_release\apps\myApps\johnWhitney\bin\johnWhitney_debug.exe
+  
+  	                   2	D:\SOFTWARE\front-end\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	D:\SOFTWARE\front-end\of_v0.11.0_vs2017_release\apps\myApps\johnWhitney\bin\FreeImage.dll
+  
+  	                   1	D:\SOFTWARE\front-end\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	D:\SOFTWARE\front-end\of_v0.11.0_vs2017_release\apps\myApps\johnWhitney\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	D:\SOFTWARE\front-end\of_v0.11.0_vs2017_release\apps\myApps\johnWhitney\bin\fmodexL.dll
