@@ -1,0 +1,17 @@
+﻿  ofApp.cpp
+d:\software\front-end\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\software\front-end\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\software\front-end\of_v0.11.0_vs2017_release\apps\myapps\week03_muriel cooper\src\ofapp.cpp(24): warning C4018: '<': signed/unsigned mismatch
+d:\software\front-end\of_v0.11.0_vs2017_release\apps\myapps\week03_muriel cooper\src\ofapp.cpp(27): warning C4018: '<': signed/unsigned mismatch
+d:\software\front-end\of_v0.11.0_vs2017_release\apps\myapps\week03_muriel cooper\src\ofapp.cpp(33): warning C4018: '<': signed/unsigned mismatch
+d:\software\front-end\of_v0.11.0_vs2017_release\apps\myapps\week03_muriel cooper\src\ofapp.cpp(45): warning C4018: '<': signed/unsigned mismatch
+d:\software\front-end\of_v0.11.0_vs2017_release\apps\myapps\week03_muriel cooper\src\ofapp.cpp(48): warning C4018: '<': signed/unsigned mismatch
+d:\software\front-end\of_v0.11.0_vs2017_release\apps\myapps\week03_muriel cooper\src\ofapp.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  week03_Muriel Cooper.vcxproj -> D:\SOFTWARE\front-end\of_v0.11.0_vs2017_release\apps\myApps\week03_Muriel Cooper\bin\week03_Muriel Cooper_debug.exe
+  
+  	                   2	D:\SOFTWARE\front-end\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	D:\SOFTWARE\front-end\of_v0.11.0_vs2017_release\apps\myApps\week03_Muriel Cooper\bin\FreeImage.dll
+  
+  	                   1	D:\SOFTWARE\front-end\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	D:\SOFTWARE\front-end\of_v0.11.0_vs2017_release\apps\myApps\week03_Muriel Cooper\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	D:\SOFTWARE\front-end\of_v0.11.0_vs2017_release\apps\myApps\week03_Muriel Cooper\bin\fmodexL.dll
